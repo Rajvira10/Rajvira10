@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rajvira10
-- 👀 I’m interested in being a front end web developer
-- 🌱 I’m currently learning React.
+- 👀 I’m a front end web developer
 - 💞️ I’m looking to collaborate on javascript projects
 - 📫 How to reach me rajvirahmedshuvo10@gmail.com
 
