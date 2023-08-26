@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Rajvira10<br>👀 I’m a full-stack web developer<br>💞️ I’m looking to collaborate on MERN stack and Ruby on Rails projects<br>📫 How to reach me rajvirahmedshuvo10@gmail.com
+👋 Hi, I’m @Rajvira10<br>👀 I’m a full-stack web developer<br>💞️ I’m looking to collaborate on MERN stack, Laravel and Ruby on Rails projects<br>📫 How to reach me rajvirahmedshuvo10@gmail.com
 
 
 ## 🌐 Socials:
