@@ -1,33 +1,20 @@
-# Hi, I'm Rajvir.
+# Rajvir Ahmed Shuvo
 
-I'm a full-stack developer based in Dhaka, Bangladesh. I work on backend
-systems, vehicle telemetry, and web and mobile apps.
+Full-stack developer in Dhaka, Bangladesh, focused on backend systems.
 
-I'm interested in Go, distributed systems, and the details that make software
-reliable: data modelling, queues, caching, and observability.
+## What I work on
 
-## Selected work
+- Vehicle telemetry and backend data processing.
+- Backend services with Go, Laravel, PostgreSQL, and Redis.
+- Web and mobile apps with React, TypeScript, and Flutter.
 
-- **[StudyHUB](https://github.com/Rajvira10/fullstack-forum)** — A student
-  discussion forum with communities, threaded comments, and voting.
-  Built with Next.js, TypeScript, Prisma, MySQL, and Redis.
-- **[Inventory management](https://github.com/Rajvira10/laravel-inventory-management-app)**
-  — A Laravel app for grocery inventory and customer orders, with queued email
-  notifications and scheduled tasks.
-- **[Real-time chat](https://github.com/Rajvira10/real-time-chat-app)** — Individual
-  and group conversations using Next.js, Prisma, MongoDB, and Pusher.
+I'm interested in distributed systems and the operational side of software:
+queues, caching, observability, and debugging failures.
 
 ## Open source
 
-[Fixed Unicode header alignment in dbcli/cli_helpers](https://github.com/dbcli/cli_helpers/pull/117)
-— merged. The fix measures terminal display width so wide and combining
-characters align correctly in vertical table output.
-
-[Browse my pull requests](https://github.com/pulls?q=is%3Apr+author%3ARajvira10+is%3Apublic)
-
-## Tools I work with
-
-Go, PHP / Laravel, PostgreSQL, Redis, TypeScript / React, Flutter, and Docker.
+[Pull requests](https://github.com/pulls?q=is%3Apr+author%3ARajvira10+is%3Apublic) ·
+[Merged contributions](https://github.com/pulls?q=is%3Apr+author%3ARajvira10+is%3Amerged+is%3Apublic)
 
 ## Get in touch
 
