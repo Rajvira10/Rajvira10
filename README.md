@@ -18,6 +18,6 @@ queues, caching, observability, and debugging failures.
 ## Get in touch
 
 [Email](mailto:rajvirahmedshuvo10@gmail.com) ·
-[LinkedIn](https://www.linkedin.com/in/rajvir-ahmed-18509a207/) ·
+[LinkedIn](https://www.linkedin.com/in/rajvir-ahmed-shuvo/) ·
 [Portfolio](https://rajvir-portfolio.netlify.app/) ·
 [Facebook](https://facebook.com/profile.php?id=100005684685994)
