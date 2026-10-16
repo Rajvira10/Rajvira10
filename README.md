@@ -4,7 +4,6 @@ Full-stack developer in Dhaka, Bangladesh, focused on backend systems.
 
 ## What I work on
 
-- Vehicle telemetry and backend data processing.
 - Backend services with Go, Laravel, PostgreSQL, and Redis.
 - Web and mobile apps with React, TypeScript, and Flutter.
 
